@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Butterfredrik
 - 👀 I’m interested in data analytics and IOS development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: k.fredrik.karlsson@gmail.com
 
